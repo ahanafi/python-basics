@@ -1,1 +1,1 @@
-# python-100days-code
+# python-basics
